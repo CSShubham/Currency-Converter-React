@@ -2,11 +2,11 @@
 
 A modern and responsive **Currency Converter** built with **React.js**. It allows users to convert between multiple international currencies using up-to-date exchange rates fetched from a live currency API.
 
----
+---  
 
-## 🖼️ Demo
+## 🖼️ Preview
 
-👉 [Live Demo](https://your-live-demo-link.com)  
+![ Preview](./public/Capture.PNG)
 
 ---
 
@@ -26,8 +26,8 @@ A modern and responsive **Currency Converter** built with **React.js**. It allow
 - **React.js** (with Hooks)
 - **fetch** – for making API calls
 - **Currency API** – e.g. [ExchangeRate-API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.json)
-- **CSS** or **Tailwind CSS** – for styling
-- **Vite** or **Create React App** – for bootstrapping
+- **Tailwind CSS** – for styling
+- **Vite**  – for bootstrapping
 
 ---
 
